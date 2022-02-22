@@ -1,0 +1,12 @@
+serviceUrl:
+          defaultZone: http://localhost:8888/eureka/
+                    instance:
+                   hostname: localhost
+   
+spring:
+  application:
+    name: PAYMENT-SERVICE
+      
+    
+    
+     
